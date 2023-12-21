@@ -33,6 +33,10 @@
 
 ## Demo
 
+https://xutqeywyyzfrptoufkhh.supabase.co
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inh1dHFleXd5eXpmcnB0b3Vma2hoIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MDMxNjU4OTIsImV4cCI6MjAxODc0MTg5Mn0.qKW4-0Aq92VTP4pemllYkGwziM4ux1xcTntxz-VFqb0
+
 You can view a fully working demo at [demo-nextjs-with-supabase.vercel.app](https://demo-nextjs-with-supabase.vercel.app/).
 
 ## Deploy to Vercel
